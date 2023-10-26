@@ -1,1 +1,2 @@
-# .github
+# About the Image Sciences Institute
+With around 50 researchers, ISI is one of the largest medical image research groups in Europe. ISI is housed within the Department of Radiology of the University Medical Center Utrecht, and this enables close collaboration between image scientists, clinicians and radiologists. Imaging is one of the seven main directions of research within the University Medical Center Utrecht.
